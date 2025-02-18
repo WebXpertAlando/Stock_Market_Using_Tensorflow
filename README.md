@@ -4,7 +4,8 @@
 # Introduction
 Financial institutions encounter significant challenges in assessing the creditworthiness of loan applicants, a crucial factor for minimizing defaults and managing risk.
 ## Objectives:
+ - Perform data preparation and processing for the stock market prefiction.
  - Analyze Stock Market Data and come up with future Prediction.
- - Use TensorFlow to normalize, fit and build model tha give an accurate future predictions.
+ - Use TensorFlow to normalize, create sequences, timesteps, fit and build model that gives an accurate future predictions.
  - Visualize the prediction results.
 ### Data Source: Anonymous
