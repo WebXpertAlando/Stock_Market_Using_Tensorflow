@@ -1,4 +1,4 @@
-# Project Title : Stock Market Analysis Using Tensorflow
+# Project Title : Stock Market Analysis - Time Series Modeling
 ![stock](https://github.com/user-attachments/assets/ff40c8d2-9afb-4c3e-b17d-9b9de8481b0a)
 
 # Introduction
